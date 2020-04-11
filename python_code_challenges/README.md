@@ -20,3 +20,9 @@ The course is composed by:
   - Solve a Sudoku
   - Build a ZIP archive
   - Download sequential files
+
+Using `make_directories_and_files.py` I have created the directory structure for all the challenges. Using `python_code_challenges.ipynb` is possible to have an overview of all challenges
+
+Some challengs were suitable to automated test using [pytest](https://docs.pytest.org/en/latest/)
+
+Thanks to Linkedin Learning for this awesome challengs 
