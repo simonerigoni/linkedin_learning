@@ -23,6 +23,8 @@ The course is composed by:
   - Build a ZIP archive
   - Download sequential files
 
+Software and Libraries
+
 This project uses Python 3.8.2 and the following libraries:
 
 - [Pandas](http://pandas.pydata.org)
