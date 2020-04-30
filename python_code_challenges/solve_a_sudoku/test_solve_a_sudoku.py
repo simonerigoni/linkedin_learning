@@ -4,7 +4,7 @@
 from solve_a_sudoku import solve_sudoku
 
 
-def test_get_prime_factors():
+def test_solve_sudoku():
     assert solve_sudoku([[5, 3, 0, 0, 7, 0, 0, 0, 0]
                             , [6, 0, 0, 1, 9, 5, 0, 0, 0]
                             , [0, 9, 8, 0, 0, 0, 0, 6, 0]
