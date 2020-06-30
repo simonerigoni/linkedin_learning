@@ -8,3 +8,4 @@
 6. [Learning MongoDB](https://github.com/simonerigoni/linkedin_learning/tree/master/learning_mongodb)
 7. [Blockchain Basics](https://github.com/simonerigoni/linkedin_learning/tree/master/blockchain_basics)
 8. [Blockchain Beyond the Basics](https://github.com/simonerigoni/linkedin_learning/tree/master/blockchain_beyond_the_basics)
+9. [Python Design Patterns](https://github.com/simonerigoni/linkedin_learning/tree/master/python_design_patterns)
